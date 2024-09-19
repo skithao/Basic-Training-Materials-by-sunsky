@@ -33,7 +33,7 @@
 
 ### 学习Linux基础命令
 - Linux是大多数程序员和开发者的首选操作系统，也是系统管理与维护的课程内容。
-  - [查看Linux命令帮助信息](https://dunwu.github.io/linux-tutorial/linux/cli/linux-cli-help. html#_1-%E6%9F%A5%E7%9C%8B-linux-%E5%91%BD%E4%BB%A4%E5%B8%AE%E5%8A%A9%E4%BF%A1%E6%81%AF%E7%9A%84%E8%A6%81%E7%82%B9)
+  - [查看Linux命令帮助信息](https://dunwu.github.io/linux-tutorial/linux/cli/linux-cli-help.html#_1-%E6%9F%A5%E7%9C%8B-linux-%E5%91%BD%E4%BB%A4%E5%B8%AE%E5%8A%A9%E4%BF%A1%E6%81%AF%E7%9A%84%E8%A6%81%E7%82%B9)
   - [Linux私房菜](https://zq99299.github.io/linux-tutorial/tutorial-basis/#%E5%86%85%E5%AE%B9%E5%AF%BC%E8%88%AA)
 
 ## 第二周组会内容
